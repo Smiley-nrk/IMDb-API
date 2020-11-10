@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Workspaces/IMDb API/IMDbApi/.idea/IMDbApi.iml" filepath="$PROJECT_DIR$/../../../../Workspaces/IMDb API/IMDbApi/.idea/IMDbApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Workspaces/IMDb API/dbService/.idea/dbService.iml" filepath="$PROJECT_DIR$/../../../../Workspaces/IMDb API/dbService/.idea/dbService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Workspaces/IMDb API/scraperService/.idea/scraperService.iml" filepath="$PROJECT_DIR$/../../../../Workspaces/IMDb API/scraperService/.idea/scraperService.iml" />
+    </modules>
+  </component>
+</project>
