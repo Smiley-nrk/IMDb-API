@@ -58,7 +58,7 @@ Now, when to update DB data?
 For that, on every API call, only send 1 HTTP/s request to IMDb and scrap the list of movie rank and title. Compare that to data in DB. If both are inconsistent, then we need to update data stored in DB. For that also, we use RabbitMQ to communicate between DBService and Scraper Service.
 
 # Flow chart:
-The rough flow chart is available [here](https://github.com/Smiley-nrk/IMDb-API/blob/master/APIAndSraperFlow.pdf?raw=true)
+The rough flow chart is available [here](https://github.com/Smiley-nrk/IMDb-API/blob/master/APIAndScraperFlow.pdf?raw=true)
 
 # Helpful Links:
 - BeautifulSoup documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
